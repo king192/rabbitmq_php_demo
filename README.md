@@ -32,3 +32,7 @@ composer install
 
 备注：guest用户只能本机访问，新增用户https://www.cnblogs.com/zongyl/p/5913808.html，新增用户后需授权权限
 ```
+```
+意外发现：
+支持多进程消费
+```
