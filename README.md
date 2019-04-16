@@ -6,6 +6,8 @@ php扩展安装说明：
 (pecl search amqp)
 pecl install amqp-1.9.4
 如果安装过程出错，可能是某些依赖组件的问题
+autoreconf: `configure.ac' or `configure.in' is required
+解决：https://github.com/king192/rabbitmq-c
 
 rabbitmq-server安装：
 依赖：
